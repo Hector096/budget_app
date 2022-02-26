@@ -1,6 +1,6 @@
 #  Budget App
 
-The Recipe app keeps track of all your recipes, ingredients, and inventory. It will allow you to save ingredients, keep track of what you have, create recipes, and generate a shopping list based on what you have and what you are missing from a recipe.
+The project is about building a mobile web application where you can manage your budget: you have a list of transactions associated with a category, so that you can see how much money you spent and on what.
 
 ## Built With
 
@@ -19,9 +19,9 @@ The Recipe app keeps track of all your recipes, ingredients, and inventory. It w
 * Yarn (yarn --v)
 
 ## To get a local copy run the following steps:
-- Copy this link [this link](https://github.com/Hector096/Recipe-app/)
+- Copy this link [this link](https://github.com/Hector096/budget_app)
 - Open your terminal or command line
-- Run "git clone Paste [this link](https://github.com/Hector096/Recipe-app/)"
+- Run "git clone Paste [this link](https://github.com/Hector096/budget_app)"
 - Open the folder with your code editor
 - Create a branch to work on
 
@@ -47,7 +47,7 @@ To run the tests locally :
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Hector096/Recipe-app/issues).
+Feel free to check the [issues page](https://github.com/Hector096/budget_app/issues).
 
 
 ## Acknowledgements
